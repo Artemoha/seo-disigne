@@ -8335,3 +8335,4 @@ BX.namespace('BX.Sale.OrderAjaxComponent');
 		}
 	};
 })();
+
