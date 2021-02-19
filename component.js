@@ -1355,7 +1355,7 @@
 		applyPriceAnimation: function()
 		{
 			$(".js-open-basket").load("/ .js-open-basket > *");
-    		$('#light-cart').load("/ #light-cart > *"); 
+    		$('#light-cart').load("/ #light-cart > *");
 			if (!this.priceAnimationData || Object.keys(this.priceAnimationData.start).length === 0)
 				return;
 
